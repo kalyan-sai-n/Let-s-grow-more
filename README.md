@@ -13,7 +13,7 @@ Badges : LGMVIP
 
 Project 1
 
-Name : Paradise Hotels and Resorts
+Name : Freelance Service
 
 Type : Frontend
 
