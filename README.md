@@ -24,3 +24,20 @@ Start Date : 01.07.2021
 End Date : 07.07.2021
 
 Status : Completed
+--------------------------------------------------------------
+
+Project 2
+
+Name : College marks display
+
+Type : fullstack
+
+Techs : HTML, CSS, JavaScript, Bootstrap,PHP,Mysql.
+
+Start Date : 07.07.2021
+
+End Date : 13.07.2021
+
+Status : Completed
+------------------------------------------------------------
+
